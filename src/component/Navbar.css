@@ -1,0 +1,32 @@
+ 
+/* 
+  .navbar .container-fluid {
+    display: flex;
+    justify-content: center;
+  } */
+/*   
+  .navbar-brand {
+    font-weight: 900;
+    font-size: large;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: 2px;
+  } */
+
+  .navbar-brand span{
+    color: rgb(158, 204, 244);
+    font-style: italic;
+  }
+  
+
+  /* Navbar.css */
+
+/* .navbar {
+    margin-top: 0;
+  }
+   */
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
